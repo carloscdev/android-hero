@@ -45,7 +45,3 @@ Aplicación Android para crear y visualizar superhéroes personalizados. Permite
 ## ¿Qué hace la app?
 
 Permite crear un superhéroe ingresando nombre, alter ego, biografía, calificación de poder y tomar una foto. Al guardar, se muestra una pantalla de detalle con la información y la imagen.
-
----
-
-¿Te gustaría agregar instrucciones para producción, screenshots o algo más?
